@@ -1,16 +1,18 @@
 {
   "text": [
-    "align": "center",
-    "fill": "#000",
-    "fontFamily": "Calibri",
-    "fontSize": 16,
-   "height": 25.999999999999954,
-    "key": "1",
-    "padding": 5,
-    "text": "Enter some text...",
-    "tool": "TEXT",
-    "width": 221.8902359738053,
-    "x": 337.5679139302542,
-    "y": 183.30807039877425
+    {
+      "align": "center",
+      "fill": "#000",
+      "fontFamily": "Calibri",
+      "fontSize": 16,
+      "height": 25.999999999999954,
+      "key": "1",
+      "padding": 5,
+      "text": "Enter some text...",
+      "tool": "TEXT",
+      "width": 221.8902359738053,
+      "x": 337.5679139302542,
+      "y": 183.30807039877425
+    }
   ]
 }
