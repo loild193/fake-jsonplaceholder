@@ -6,7 +6,7 @@
       "fontFamily": "Calibri",
       "fontSize": 16,
       "height": 25.999999999999954,
-      "key": "1",
+      "id": "1",
       "padding": 5,
       "text": "Enter some text...",
       "tool": "TEXT",
